@@ -2,7 +2,7 @@
 Just a bunch of hand crafted experiments to tinker with the
 capabilities of a really fast aarch64 based system.
 
-![neofetch!](/images/neofetch.png)
+![neofetch!](/images/neofetch.png "neofetch")
 
 **SoC:** RK3588s
 * 4x ARM Cortex A76 (ARMv8.4-a)

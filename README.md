@@ -11,3 +11,10 @@ capabilities of a really fast aarch64 based system.
 
 mostly just trying to make the most out of computation acceleration
 capabilities provided with cutting edge hardware..
+
+### Index:
+[**ARM Neon programming**](opencl/template/README.md)
+
+[**Kernel Modules**](kernel-mods/README.md)
+
+[**OpenCL Examples**](opencl/template/README.md)

@@ -13,7 +13,7 @@ mostly just trying to make the most out of computation acceleration
 capabilities provided with cutting edge hardware..
 
 ### Index:
-[**ARM Neon programming**](opencl/template/README.md)
+[**ARM Neon programming**](arm_neon/fp16/README.md)
 
 [**Kernel Modules**](kernel-mods/README.md)
 

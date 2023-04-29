@@ -4,7 +4,7 @@ example template script for testing OpenCL on the Mali GPU, written in both C an
 utilizes the full profile OpenCL v2.1 spec.
 
 ### for C program:
-full source here: [template/c](/c/)
+full source here: [template/c](c)
 
 ``` 
 cd c
@@ -14,7 +14,7 @@ make
 
 ### for C++ program:
 
-full source here: [template/c++](/c++/)
+full source here: [template/c++](c++)
 ```
 cd c++
 make

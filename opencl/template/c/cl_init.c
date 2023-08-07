@@ -103,7 +103,7 @@ cl_device_id queryClDevice(cl_platform_id* platforms, int platform_num,  int dev
  * 
  * @param platforms list of openCL platforms
  * @param platform_num the index of the platform
- * @return char* 
+ * @return char* pointer to name string
  */
 char* queryClPlatformName(cl_platform_id* platforms, int platform_num){
   cl_int cl_err;
@@ -122,7 +122,7 @@ char* queryClPlatformName(cl_platform_id* platforms, int platform_num){
  * @brief Fetch the name of the openCL device
  * 
  * @param device_id the openCL device id
- * @return char* 
+ * @return char* pointer to name string
  */
 char* queryClDeviceName(cl_device_id device_id){
   cl_int cl_err;
